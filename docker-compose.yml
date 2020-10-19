@@ -1,0 +1,8 @@
+version: '3.3'
+
+services:
+  test:
+    build: ./
+    image: test
+    container_name: test
+    tty: true
