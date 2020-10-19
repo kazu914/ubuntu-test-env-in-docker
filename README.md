@@ -6,6 +6,7 @@
 - git
 - vim
 - curl
+- zsh
 ユーザーパスワードは`test`
 
 
