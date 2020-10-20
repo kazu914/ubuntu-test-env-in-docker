@@ -6,7 +6,9 @@
 - git
 - vim
 - curl
+- zip/unzip
 - zsh
+
 ユーザーパスワードは`test`
 
 
